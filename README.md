@@ -42,11 +42,14 @@ O jogo possui uma progressão rígida controlada por um cronômetro de **1 minut
 O projeto fez uso otimizado do pacote disponibilizado no repositório laboratorial (`assets-lab10-unity`), aplicando a correta disposição visual das camadas no componente `Sprite Renderer` através do gerenciamento de `Sorting Layers` e `Order in Layer`, garantindo que os projéteis, personagens e barras de interface operem sempre visíveis à frente das estruturas e casinhas de fundo.
 
 ## Questões respondidas:
-1.	Existe uma Condição de Vitória bem definida para o Jogo?
+*1.	Existe uma Condição de Vitória bem definida para o Jogo?
 Sim! Na atividade, diz que a vitória poderia ser por "tempo determinado e, por conseguinte, pelo final do jogo". Implementamos o cronômetro de 1 minuto que limpa a fase e invoca o Boss Uruca. A vitória definitiva ocorre quando o jogador ataca o chefe com os limões (teclado) e o destrói.
-2.	Existem Condições de Derrota do Player?
+
+*2.	Existem Condições de Derrota do Player?
 Sim! O edital exige condições de derrota e de danos. Implementamos a barra de vida integrada; o Fofuxo sofre dano ao bater nas lesmas e ao ser atingido pelos tomates podres do Uruca, o que aciona a tela de Game Over.
-3.	Os adversários estão bem caracterizados?
+
+*3.	Os adversários estão bem caracterizados?
 Sim! Separamos as funções de forma inteligente: as lesmas comuns atacam de forma cadenciada por baixo e pelo muro durante a fase, e o Boss Uruca ataca ativamente cuspindo projéteis de frutas estragadas em alturas variadas após 1 minuto.
-4.	A Movimentação do Player está bem definida?
+
+*4.	A Movimentação do Player está bem definida?
 Sim! O Fofuxo possui movimentação completa baseada em física: pula usando a Seta para Cima para desviar dos inimigos terrestres e se abaixa, encolhendo o colisor, usando a Seta para Baixo para desviar das ameaças aéreas.
