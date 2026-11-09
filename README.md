@@ -1,8 +1,8 @@
-Felpudo's Race: O resgate da Fofura 
 # Prática em Laboratório UNITY - Felpudo's Race: O resgate da Fofura
 ##  Identificação do Projeto
-* **Jogo:** Felpudo's Race: O resgate da Fofura
+
 * **Desenvolvedores:** Karen V. Trippo e Waldomiro A. da Silva
+* 
 * **Plataforma/Engine:** Unity 6 (Ambiente 2D)
 * **Entrega:** Laboratório de Jogos Digitais via Google Classroom
 PlayUnity: https://play.unity.com/en/games/efaa84c0-6155-4cd9-a863-4add8235719e/felpudoracekarenwaldomiro
