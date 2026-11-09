@@ -5,9 +5,12 @@
 * 
 * **Plataforma/Engine:** Unity 6 (Ambiente 2D)
 * **Entrega:** Laboratório de Jogos Digitais via Google Classroom
+
 PlayUnity: https://play.unity.com/en/games/efaa84c0-6155-4cd9-a863-4add8235719e/felpudoracekarenwaldomiro
+
 YouTube: https://youtu.be/F_H1CSeZKeM
-HitHub: https://github.com/karentrippo/felpudo_race
+
+GitHub: https://github.com/karentrippo/felpudo_race
 
 ## Conceito e Narrativa do Jogo
 O herói Fofuxo, um pássaro destemido, parte em uma jornada épica com seu veículo, pronto para resgatar sua amada Fofura, sequestrada pelo temível vilão Uruca. O vilão a mantém presa no topo de uma montanha cercada por capangas e armadilhas. 
